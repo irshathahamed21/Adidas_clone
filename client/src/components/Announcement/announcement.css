@@ -1,0 +1,19 @@
+.announcement {
+    width:100vw;
+    height:40px;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.announcement__childrens {
+    font-size: 10px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+
