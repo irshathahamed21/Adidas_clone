@@ -1,0 +1,10 @@
+.topLeftBar {
+    display:flex;
+    margin-left: auto;
+    width:300px;
+    justify-content: space-around;
+    margin-right:3%;
+}
+.topLeftBar__links {
+    font-size: 14px;
+}
