@@ -8,3 +8,49 @@
 .topLeftBar__links {
     font-size: 14px;
 }
+.navbar {
+    width:100vw;
+    height:60px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    /* border:2px solid black; */
+
+}
+.navbar__left {
+    width:250px;
+    margin-left:50px;
+    /* border:2px solid red;  */
+
+
+    
+
+}
+.navbar__left img {
+    width:50px;
+    height:40px;
+}
+
+.navbar__middle {
+    display:flex;
+    justify-content: space-between;
+    width:500px;
+    /* border:2px solid blue; */
+
+}
+
+.navbar__right {
+    display: flex;
+    /* border:2px solid green; */
+    width:350px;
+
+    
+}
+.navbar__right input {
+    background-color: grey;
+    outline:none;
+
+}
+.navbar__right input:hover {
+    border:2px solid black;
+}
