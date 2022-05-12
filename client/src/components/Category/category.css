@@ -1,0 +1,29 @@
+.category {
+    width:90vw;
+    height:30vh;
+    margin: auto;
+    margin-top:10vh;
+}
+.category__container {
+    display:flex;
+    gap:10px;
+    margin-top:2vh;
+    
+
+}
+.men,.women,.kids {
+    display:flex;
+    flex:1;
+    position: relative;
+   
+}
+
+
+.category__container h4 {
+    position:absolute;
+    top:45%;
+    bottom:45%;
+    left:45%;
+    color:white;
+    
+}
