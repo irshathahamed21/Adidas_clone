@@ -40,9 +40,9 @@ function Product() {
                 <ProductContainer key = {e.id}>
                          
                       <Link to = {`/product/${e.id}`}>
-                    <Image src = {e.images[0]}/>
+                    <Image src = {e.img[0]}/>
                     <Price>{e.price}</Price>
-                    <Title>{e.title}</Title>
+                    <Title>{e.name}</Title>
                     <Text>Men Originals</Text>
                     <Title>online exclusive</Title>  
                     </Link>                
