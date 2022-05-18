@@ -1,0 +1,76 @@
+{
+    "data":[
+        {
+            "id":"1",
+            "title":"Blondey Jersey",
+            "price":"7599",
+            "category":"clothing",
+            "clothType":"T-shirt",
+            "gender":"men",
+            "availableSizes":["L", "XL"],
+            "description":[
+                "A FOOTBALL-INSPIRED JERSEY FROM BLONDEY MCCOY AND ADIDAS SKATEBOARDING.",
+                "London-based artist and skater Blondey McCoy brings terrace style to adidas Skateboarding with this jersey. The long sleeves and mock neck are pure 80s football style. A graphic on the front is an outline of the Thames, tying the jersey back to Blondey's hometown. AEROREADY manages moisture to keep you dry and comfortable.",
+                "This product is made with Primegreen, a series of high-performance recycled materials."
+            ],
+            "images":[
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e64e41647b5d48838263ae3d011cebd1_9366/Blondey_Jersey_Yellow_H58036_01_laydown.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b1725016d9f4332bcf7ae3d011aec7f_9366/Blondey_Jersey_Yellow_H58036_02_laydown_hover.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9fadad24fcfa41ac9d56ae3d011b5a84_9366/Blondey_Jersey_Yellow_H58036_41_detail.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f958aa536194f46b99aae3d011bccbe_9366/Blondey_Jersey_Yellow_H58036_42_detail.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ca3ffad81ca4dc5a984ae3d011c33cb_9366/Blondey_Jersey_Yellow_H58036_43_detail.jpg"
+
+            ]
+        },
+        {
+            "id":"2",
+            "title":"Blondey Jersey",
+            "price":"7599",
+            "category":"clothing",
+            "clothType":"T-shirt",
+            "gender":"men",
+            "availableSizes":["L", "XL"],
+            "description":[
+                "A FOOTBALL-INSPIRED JERSEY FROM BLONDEY MCCOY AND ADIDAS SKATEBOARDING.",
+                "London-based artist and skater Blondey McCoy brings terrace style to adidas Skateboarding with this jersey. The long sleeves and mock neck are pure 80s football style. A graphic on the front is an outline of the Thames, tying the jersey back to Blondey's hometown. AEROREADY manages moisture to keep you dry and comfortable.",
+                "This product is made with Primegreen, a series of high-performance recycled materials."
+            ],
+            "images":[
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e64e41647b5d48838263ae3d011cebd1_9366/Blondey_Jersey_Yellow_H58036_01_laydown.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b1725016d9f4332bcf7ae3d011aec7f_9366/Blondey_Jersey_Yellow_H58036_02_laydown_hover.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9fadad24fcfa41ac9d56ae3d011b5a84_9366/Blondey_Jersey_Yellow_H58036_41_detail.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f958aa536194f46b99aae3d011bccbe_9366/Blondey_Jersey_Yellow_H58036_42_detail.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ca3ffad81ca4dc5a984ae3d011c33cb_9366/Blondey_Jersey_Yellow_H58036_43_detail.jpg"
+
+            ]
+        },
+        {
+            "id":"3",
+            "title":"Blondey Jersey",
+            "price":"7599",
+            "category":"clothing",
+            "clothType":"T-shirt",
+            "gender":"men",
+            "availableSizes":["L", "XL"],
+            "description":[
+                "A FOOTBALL-INSPIRED JERSEY FROM BLONDEY MCCOY AND ADIDAS SKATEBOARDING.",
+                "London-based artist and skater Blondey McCoy brings terrace style to adidas Skateboarding with this jersey. The long sleeves and mock neck are pure 80s football style. A graphic on the front is an outline of the Thames, tying the jersey back to Blondey's hometown. AEROREADY manages moisture to keep you dry and comfortable.",
+                "This product is made with Primegreen, a series of high-performance recycled materials."
+            ],
+            "images":[
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/e64e41647b5d48838263ae3d011cebd1_9366/Blondey_Jersey_Yellow_H58036_01_laydown.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9b1725016d9f4332bcf7ae3d011aec7f_9366/Blondey_Jersey_Yellow_H58036_02_laydown_hover.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/9fadad24fcfa41ac9d56ae3d011b5a84_9366/Blondey_Jersey_Yellow_H58036_41_detail.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3f958aa536194f46b99aae3d011bccbe_9366/Blondey_Jersey_Yellow_H58036_42_detail.jpg",
+                    "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/4ca3ffad81ca4dc5a984ae3d011c33cb_9366/Blondey_Jersey_Yellow_H58036_43_detail.jpg"
+
+            ]
+        }
+        
+        
+        
+
+    ]
+        
+    
+}

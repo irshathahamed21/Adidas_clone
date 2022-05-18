@@ -20,6 +20,7 @@ function Category() {
             <h4>KIDS</h4>
         </div>
         </div>
+        
 
     </div>
   )
