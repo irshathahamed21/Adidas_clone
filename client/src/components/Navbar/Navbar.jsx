@@ -56,6 +56,7 @@ function Navbar() {
         </div>
         <div className="navbar__right__childrens">
           {/* < ShoppingBagOutlinedIcon/> */}
+          
         </div>
 
       </div>

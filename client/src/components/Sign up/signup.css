@@ -1,0 +1,12 @@
+.signup__form {
+    width:300px;
+    border:1px solid brown;
+    display:flex;
+    flex-direction:column;
+
+}
+.popup {
+    margin:auto;
+   
+
+}

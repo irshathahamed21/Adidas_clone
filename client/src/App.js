@@ -8,8 +8,10 @@ import { BrowserRouter as Router , Routes, Route} from "react-router-dom";
 
 import Footer from './components/Footer/Footer';
 import ProductDetails from './components/ProductDetails/ProductDetails';
+import Cart from './pages/cart/Cart';
 
 import './App.css';
+import Checkout from './pages/checkout/Checkout';
 
 function App() {
   return (
@@ -22,11 +24,18 @@ function App() {
         </Route>
         <Route  path = "/products"  element = { <Products/>}>
         </Route>
+
+        <Route  path = "/cart"  element = { <Cart/>}>
+        </Route>
+        <Route  path = "/delivery"  element = { <Checkout/>}>
+        </Route>
+
+
         <Route exact path = "/" element = { <Home/>}>
         </Route> 
         <Route>404 not found</Route>
         </Routes>
-        <Footer />
+        {/* <Footer /> */}
     </>
   );
 }

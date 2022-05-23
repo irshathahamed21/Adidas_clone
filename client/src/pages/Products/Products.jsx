@@ -8,15 +8,36 @@ import Product from '../../components/Product/Product'
 
 
 const ProductContainer = styled.div`
-      margin:10vw 5vw;
+     
+      width:100vw;
+      margin-top:5vw;
+     
+      // border:2px solid green;
+
 `
+
+const ProductHeading = styled.div`
+    display:flex;
+    justify-content:space-between;
+    & h1 {
+      margin-left:2.5vw;
+    }
+
+`
+const FilterContainer = styled.div`
+
+`
+
 
 const ProductListing = styled.div`
     display:flex;
     flex-wrap:wrap;
-    width: 100vw;
-    margin-top:5vw;
-    gap:2vw;
+    width: 95%;
+    gap:8px;
+    // border:1px solid black;
+    margin:auto ;
+    margin-top:2vw;
+    
 
 `
 const text =styled.p`
@@ -59,10 +80,7 @@ function Products() {
     <>
     <ProductContainer>
 
-   
-    <h1>MENS </h1>
-    <p>It doesn't get any more sports classic than our range of men's originals, featuring revamped versions of many of the designs that have made adidas synonymous with sports style the world over.</p>
-    
+   <h1>All Products</h1>
 
     <ProductListing>
     

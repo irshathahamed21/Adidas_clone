@@ -32,7 +32,7 @@ function Footer() {
         </div>
     </div>
     </div>
-    <BottomAnnouncement/>
+    {/* <BottomAnnouncement/> */}
     </>
     
   )
