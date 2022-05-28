@@ -1,0 +1,23 @@
+.para__container {
+    background-color: rgb(213, 241, 232);
+    display:flex;
+    padding:5vw 10vw;
+    gap:2vw;
+
+    
+    
+    
+}
+.para__one__container {
+    display: flex;
+    max-width:fit-content;
+    
+}
+.para__one {
+    display:flex;
+    flex-direction: column;
+}
+.para__one p {
+    margin-top: 20px;
+}
+
